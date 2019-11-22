@@ -1,0 +1,2 @@
+hihope-rzg2m-sd-image-1101.img filter=lfs diff=lfs merge=lfs -text
+hihope-rzg2n-sd-image-1101.img filter=lfs diff=lfs merge=lfs -text
